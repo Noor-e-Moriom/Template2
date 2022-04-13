@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.bg-white{
+    background-color: #fff;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+body{
+    background-color: #333333;
+}
+img{
+    max-width: 100%;
+}
+.container{
+    max-width: 730px;
+    margin: auto;
+    background-color: #fff;
+    
+}
+.mid-container{
+    max-width: 600px;
+    margin: auto;
+}
+.display-flex{
+    display: flex;
+}
+
+.nav-color{
+    
+    background-color: #F6F6F6;
+    padding: 10px 0px;
+    width:100%
+}
+.nav_part{
+    width: 72%;
+}
+
+.nav_part2{
+    width: 28%;
+}
+.nav_part2 a{
+        text-decoration: none;
+        color: rgb(73 84 84 / 82%);
+        font-size: 12px;
+        letter-spacing: 1px;
+        line-height: 12px;
+}
+.main-nav{
+    background-color: #fff;
+}
+
+.nav-section{
+  width: 100%;
+  padding: 20px 0;
+  background-color: #fff;
+}
+.Logo-part img{
+  margin-left:50px ;
+}
+.nav_bar{
+  width: 50%;
+}
+.nav_bar1 {
+    width: 50%;
+    margin-left: 40px;
+    /* margin-right: 26px; */
+}
+.nav_bar1 a {
+    text-decoration: none;
+    margin: 0 10px;
+    color: rgb(73 84 84 / 82%);
+    line-height: 50px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.limited-offer{
+   background-color: #D3DCE3;
+   text-align: center;
+   padding: 20px 0;
+}
+.limited-offer h1{
+    margin: 10px 0;
+
+    text-align:center;
+    color:#333333;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    /* font-family: Fantasy;  */
+    /* font-family: Monospace; */
+    font-size:32px; 
+     font-weight:600; line-height:35px;
+   
+    
+    
+  
+}
+.limited-offer h3{
+    margin: 10px 0;
+    color: #EE5A24;
+}
+.limited-offer img{
+
+}
+.btn-class a {
+    margin-top: 15px;
+    background-color: #EE5A24;
+    color: #fff;
+    text-decoration: none;
+    width: 114px;
+    line-height: 31px;
+    /* padding: 10px 0; */
+    font-size: 11px;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+}
+.img-section{
+    /* background-image: url('img/800x300.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
+    background-color: #CCCCCC;
+    text-align: center;
+    padding: 100px 0;
+
+}
+.img-section h4{
+    color: #6E6E6E;
+    font-weight: 600;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+.raw-img{
+    margin: 10px;
+}
+.p_btn_part{
+    margin-right: 12px;
+    margin-top: 12px;
+}
+.tag {
+    width: 65%;
+    color: #EE5A24;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 13px;
+    margin-right: -10px;
+}
+.p_btn{
+    width:15% ;
+    background-color: #CCC;
+    font-size: 7px;
+    text-align: center;
+    
+}
+.selling-part{
+    background-color: #F6F6F6;
+    padding: 50px 0;
+}
+.popular-items {
+  
+ 
+
+}
+.popular-items h3{
+    text-align: center;
+    padding: 31px 0;
+    color:#333;
+    font-family: sans-serif ;
+   
+    /* line-height: 0; */
+    font-size: 22px;
+    
+}	
+.left-part{
+    width: 50%;
+
+}
+.left-part img {
+    width: 81%;
+   
+    margin-left: 30px;
+}
+.right-part	{
+    width: 40%;
+}																		
+.right-part	p {
+    font-size: 14px;
+    text-align: justify;
+    width: 222px;
+    line-height: 21px;
+    color: #867688;
+}																		
+.right-part h4{
+   
+   padding:0 0 10px 0;
+}
+.right-part a {
+    font-size: 10px;
+    color: #fff;
+    background-color: #EE5A24;
+    padding: 10px;
+  
+    letter-spacing: 1px;
+    margin-top: 10px;
+    font-weight: 600;
+}	
+.footer{
+    text-align: center;
+}
+.footer-img{
+  
+  
+   
+}
+.footer-img img {
+    margin: 7px;
+    
+    padding: 46px 0 13px 0;
+}
+.footer-adrs{}
+.footer-adrs p {
+    padding: 30px 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+   
+    color: #888;
+    font-size: 14px;
+}
+.footer-menu{
+    padding: 30px 0;
+}
+.footer-menu a {
+    border-right: 1px solid #ccc;
+    padding: 0 5px 0 5px;
+    font-size: 12px;
+   
+    color: #666;
+}
+.footer-menu a:last-child{
+    border-right: none;
+}
+
+								
